@@ -10,8 +10,11 @@
     "ckeditor5-plugin"
   ],
   "dependencies": {
+    "@ckeditor/ckeditor5-clipboard": "^24.0.0",
+    "@ckeditor/ckeditor5-core": "^24.0.0",
     "@ckeditor/ckeditor5-engine": "^24.0.0",
     "@ckeditor/ckeditor5-typing": "^24.0.0",
+    "@ckeditor/ckeditor5-ui": "^24.0.0",
     "lodash-es": "^4.17.15"
   },
   "devDependencies": {
